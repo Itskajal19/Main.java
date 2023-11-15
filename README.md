@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Student Registration Form </title>
+<title> Registration Form </title>
 <style>
    
 h2{
@@ -43,7 +43,7 @@ input[type=submit], input[type=reset]{
 </style>
 </head>
 <body>
-<h2>Student Registration Form </h3>
+<h2> Registration Form </h3>
 <table align="center" cellpadding = "10">
 <!--------------------- First Name ------------------------------------------>
 <tr>
